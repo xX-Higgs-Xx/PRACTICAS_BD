@@ -1,2 +1,2 @@
-# PRACTICA-26_BD
-Practica 26 de base de datos en donde se puso en practica los disparadores TRIGGER AFTER &amp; BEFORE.
+# PRACTICAS_BD
+TODAS LAS PRACTICAS QUE HEMOS ELAVORADO EN LA CLASE DE BASE DE DATOS.
